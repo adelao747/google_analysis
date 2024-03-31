@@ -28,7 +28,8 @@ The fourth line plots the closing prices of Google stock using the `plt.plot()` 
 The resulting plot displays a line graph that depicts the historical closing prices of Google stock over time. The dark background and grid lines provided by the `darkgrid` style enhance the readability of the plot.
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_7_0.png
+![google_analysis_7_0](https://github.com/adelao747/google_analysis/assets/113153195/de4a3733-2e5a-47b2-a1af-a6480680e3a3)
+
 
     
 
@@ -199,7 +200,8 @@ The `plt.plot()` function is used to plot three lines representing the closing p
 Finally, the `plt.legend()` function is used to create a legend that displays the labels for each line, making it clear which line corresponds to which data series.
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_17_0.png
+![google_analysis_17_0](https://github.com/adelao747/google_analysis/assets/113153195/c951deae-dbf9-4716-a421-616082032700)
+
 
     
 
@@ -215,7 +217,8 @@ The `annot` parameter is set to `True`, which causes the correlation coefficient
 The heatmap provides a visual representation of the relationships between the numerical columns in the dataframe, making it easier to identify patterns and insights that might not readily apparent from the individual correlation coefficients.
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_19_0.png
+![google_analysis_19_0](https://github.com/adelao747/google_analysis/assets/113153195/cae533c4-67d8-4baa-9ea7-13b73ff6bd77)
+
 
     
 
@@ -229,19 +232,22 @@ A histogram plot shows the shape and spread of the data, allowing us to understa
 In summary, a histogram plot is a visual tool that displays the distribution of a dataset by representing the frequency or count of the values within specific intervals.
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_21_0.png
+![google_analysis_21_0](https://github.com/adelao747/google_analysis/assets/113153195/b30fa0d3-b9a9-4742-870c-008dbcf3b46f)
+
 
     
 
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_22_0.png
+![google_analysis_22_0](https://github.com/adelao747/google_analysis/assets/113153195/a0820c57-2d24-468b-8490-3e785044c655)
+
 
     
 
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_23_0.png
+![google_analysis_23_0](https://github.com/adelao747/google_analysis/assets/113153195/48409efb-7f99-4935-ba77-b59fe3b61a1e)
+
 
     
 
@@ -348,7 +354,8 @@ The code first creates two separate line plots using the `plt.plot()` function. 
 Finally, the `plt.legend()` function is used to create a legend that displays the labels for two line plots, making it clear which line corresponds to which data series. This visualization allows for easy interpretation of the relationship between the 50DMA values and the predicted closing prices.
 
 
-/Users/alexdelao/Documents/Berkeley Projects/google_analysis/images/google_analysis_29_0.png
+![google_analysis_29_0](https://github.com/adelao747/google_analysis/assets/113153195/59e4ba9a-d7f7-4c30-98e8-b2b2f6da7998)
+
 
     
 
