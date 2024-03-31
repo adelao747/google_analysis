@@ -323,7 +323,7 @@ The formula API is a powerfule tool for data scientists and statisticians who wa
 
 
 
-# Predicting Stock Prices Using Fitted Lineare Regression Model
+# Predicting Stock Prices Using Fitted Linear Regression Model
 
 The provided code utilizes a fitted linear regression model to predict stock prices based on 50-day moving average (50DMA) values. It utilizes the `Pandas` library to manage and manipulate the input data.
 
